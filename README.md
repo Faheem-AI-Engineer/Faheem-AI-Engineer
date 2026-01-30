@@ -219,11 +219,3 @@ I'm always interested in collaborating on innovative projects, especially in the
 Feel free to reach out if you want to discuss technology, collaborate on a project, or just have a chat about the latest in AI!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadfaheem&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/muhammadfaheem">Muhammad Faheem</a>
-</p>
