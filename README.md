@@ -1,14 +1,5 @@
 # Hey 👋, I'm Faheem 👨‍💻
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-faheem-10703a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- <a href="https://www.fiverr.com/muhammad_faheem" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-</p> -->
-
 ## About 🤓
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
@@ -20,7 +11,6 @@ An **Artificial Intelligence Engineer** who transforms complex AI challenges int
 - 💼 Experience with **LangChain, LangGraph, CrewAI, AWS, and Production ML Deployments**
 - 🤖 Building **Intelligent Automation Solutions and Conversational AI Platforms**
 - 💡 I'm looking to collaborate on **Innovative AI Projects and Open-Source ML Tools**
-- 📫 How to reach me: **muhammadfaheemf18@gmail.com**
 - 🎓 BSc in Electrical Engineering from National University of Technology (NUTECH)
 - 🌍 Based in Islamabad, Pakistan
 
